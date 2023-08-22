@@ -52,8 +52,8 @@ jobs:
       - name: HTML website to PDF converter
         uses: ferdinandkeller/html-to-pdf-action@v1
         with:
-          - source-path: './_site'
-          - destination-path: './_site/assets/out.pdf'
+          source-path: './_site'
+          destination-path: './_site/assets/out.pdf'
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
