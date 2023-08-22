@@ -48,14 +48,13 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: html to pdf
-        uses: misaelnieto/web_to_pdf_action@master
+
+      - name: HTML website to PDF converter
+        uses: ferdinandkeller/html-to-pdf-action@v1
         with:
-          webPageURL: ./site
-          outputFile: ./_site/assets/resume.pdf
-          usePuppeteer: true
-          useScreen: true
-          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+          - source-path: './_site'
+          - destination-path: './_site/assets/out.pdf'
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
