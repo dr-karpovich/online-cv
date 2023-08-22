@@ -49,11 +49,14 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: HTML website to PDF converter
-        uses: ferdinandkeller/html-to-pdf-action@v1
+      - name: html to pdf
+        uses: misaelnieto/web_to_pdf_action@master
         with:
-          source-path: './_site'
-          destination-path: './_site/assets/out.pdf'
+          webPageURL: https://dr-karpovich.github.io/online-cv/
+          outputFile: ./_site/assets/resume.pdf
+          usePuppeteer: true
+          useScreen: true
+          pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
 
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
