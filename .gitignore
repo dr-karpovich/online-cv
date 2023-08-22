@@ -1,7 +1,8 @@
-docs/_site/
-docs/.sass-cache/
-docs/.jekyll-metadata
-docs/.jekyll-cache
+# Cache
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
 
 # Intellij Idea files
 .idea
