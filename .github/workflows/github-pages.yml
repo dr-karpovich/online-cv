@@ -51,7 +51,7 @@ jobs:
       - name: html to pdf
         uses: misaelnieto/web_to_pdf_action@master
         with:
-          webPageURL: https://www.noenieto.com/resume/
+          webPageURL: ./site
           outputFile: ./_site/assets/resume.pdf
           usePuppeteer: true
           useScreen: true
