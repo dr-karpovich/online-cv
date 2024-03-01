@@ -34,16 +34,16 @@ sidebar:
   languages:
     title: Sprachen
     info:
-      - idiom: Deutsch
-        level: C1, Dialektverstehen
+      - idiom: Deutsch/Schweizerdeutsch
+        level: C1
 
       - idiom: Englisch
-        level: B1
-
-      - idiom: Russisch
-        level: Muttersprache
+        level: B2
 
       - idiom: Belarussisch
+        level: Muttersprache
+
+      - idiom: Russisch
         level: Muttersprache
 
       - idiom: Italienisch
@@ -61,6 +61,13 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
+    - Eidgenössisches Arztdiplom mit **MEBEKO**-Anerkennung
+    - Eintrag im Medizinalberuferegister **MedReg** des BAG
+    - **VSAO/FMH/SIWF** Mitgliedschaft
+    - Tätigkeit als UA in der Schweiz
+    - Sehr gute Deutschkenntnisse in Wort und Schrift (Sprachniveau **C1**)
+    
+    
     Ärztin mit praktischen und theoretischen Kompetenzen in der Diagnostik, Therapieplanung, umfassenden Patientenbetreuung. \
     Klinische Erfahrung in unterschiedlichen Aspekten der Inneren Medizin bei der Führung von Patienten basierend auf klinisch problemorientiertem wissenschaftlichem Denken und evidenzbasierten ärztlichem Handeln. \
     Effizienz, Zuverlässigkeit, Sorgfältigkeit gehören zu meiner Arbeitsweise.
