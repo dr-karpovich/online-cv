@@ -13,6 +13,7 @@ sidebar:
 
   # Sidebar links
   email: irina.krivec@gmail.com
+  birthday: 27.05.1980
   phone: +41 76 451 56 26
   address: 8152 Opfikon, Schweiz
   timezone:
@@ -75,6 +76,9 @@ career-profile:
 education:
   title: Ausbildung
   info:
+    - degree: Weiterbildung in Hausarztmedizin für Assistentärzte
+      university: VSAO
+      time: 2024
     - degree: Master Humanmedizin
       university: Universität Zürich, CH
       time: 2018 - 2022
