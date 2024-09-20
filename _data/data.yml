@@ -6,8 +6,7 @@ sidebar:
   name: Dr. med. Iryna Karpovich
   tagline: |
     Assistentärztin \
-    CH-Arztdiplom \
-    BY-Arztdiplom
+    CH-Arztdiplom
   avatar: portrait.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   #  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -36,19 +35,12 @@ sidebar:
     title: Sprachen
     info:
       - idiom: Deutsch/Schweizerdeutsch
-        level: C1
 
       - idiom: Englisch
-        level: B2
 
       - idiom: Belarussisch
-        level: Muttersprache
 
       - idiom: Russisch
-        level: Muttersprache
-
-      - idiom: Italienisch
-        level: A1
 
   interests:
     title: Interessen
@@ -62,11 +54,11 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-    - Eidgenössisches Arztdiplom mit **MEBEKO**-Anerkennung
+    - **Eidgenössisches Arztdiplom**
     - Eintrag im Medizinalberuferegister **MedReg** des BAG
     - **VSAO/FMH/SIWF** Mitgliedschaft
     - Tätigkeit als UA in der Schweiz
-    - Sehr gute Deutschkenntnisse in Wort und Schrift (**C1**)
+    - Sehr gute Deutschkenntnisse in Wort und Schrift (**Goethe-zertifikat C1**)
     
     
     Ärztin mit praktischen und theoretischen Kompetenzen in der Diagnostik, Therapieplanung, umfassenden Patientenbetreuung. \
@@ -85,6 +77,9 @@ education:
     - degree: Bachelor Humanmedizin
       university: Universität Zürich, CH
       time: 2017 - 2018
+    - degree: Deutsch als Fremdsprache, Stufe C1
+      university: ZHAW Angewandte Linguistik, CH
+      time: 2016 - 2017
     - degree: Fachärztin für Innere Medizin
       university: Belarussische Staatliche Medizinische Universität, BY
       time: 2006 - 2007
@@ -95,6 +90,9 @@ education:
 experiences:
   title: Berufserfahrung
   info:
+    - role: Volunteer für ukrainische Geflüchtete
+      time: 2022 - 2023
+      company: CH
     - role: Unterassistentin
       time: 10.2020 - 07.2021
       company: Diverse Spitäler (USZ, Waid, Hirslanden, Uster), CH
