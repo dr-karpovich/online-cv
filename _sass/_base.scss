@@ -234,7 +234,8 @@ p {
     color: $text-color-secondary;
   }
 
-  .degree {
+  .degree,
+  .reference-name {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -242,6 +243,7 @@ p {
     font-weight: 500;
   }
   .university,
+  .reference-position,
   .cert-org {
     margin-bottom: 10px;
     color: $text-color-secondary;
