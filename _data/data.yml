@@ -49,6 +49,13 @@ sidebar:
       - idiom: Russisch
         level: Muttersprache
 
+  skills:
+    title: Skills
+
+    info:
+      - item: "Klinische Software: Kisim"
+      - item: "Datenanalyse: IBM SPSS"
+
   interests:
     title: Interessen
     info:
@@ -73,40 +80,40 @@ education:
       time: 02.2024 - 07.2024
 
     - degree: Master of Medicine UZH
-      university: Universität Zürich, Medizinische Fakultät, CH
+      university: Medizinische Fakultät, Universität Zürich, CH
       time: 2018 - 2022
 
     - degree: Unterassistentin
-      university: Spital Uster, Gynäkologie und Geburtshilfe, CH
+      university: Gynäkologie und Geburtshilfe, Spital Uster, CH
       time: 06.2021 - 07.2021
     - degree: Unterassistentin
-      university: Hirslanden, Klinik für Neurologie, CH
+      university: Klinik für Neurologie, Hirslanden, CH
       time: "05.2021"
     - degree: Unterassistentin
-      university: USZ, Klinik für Ohren-, Nasen-, Hals- und Gesichtschirurgie, CH
+      university: Klinik für Ohren-, Nasen-, Hals- und Gesichtschirurgie, USZ, CH
       time: "04.2021"
     - degree: Unterassistentin
-      university: Stadspital Waid, Klinik für Viszeral-, Thorax- und Gefässchirurgie, CH
+      university: Klinik für Viszeral-, Thorax- und Gefässchirurgie, Stadspital Waid, CH
       time: 02.2021 - 03.2021
     - degree: Unterassistentin
-      university: USZ, Klinik und Poliklinik für Innere Medizin, CH
+      university: Klinik und Poliklinik für Innere Medizin, USZ, CH
       time: 10.2020 - 12.2020
     - degree: Unterassistentin
-      university: USZ, Dermatologische Klinik, CH
+      university: Dermatologische Klinik, USZ, CH
       time: "03.2020"
     - degree: Unterassistentin
-      university: USZ, Gynäkologie und Geburtshilfe, CH
+      university: Gynäkologie und Geburtshilfe, USZ, CH
       time: 10.2019 - 11.2019
 
     - degree: Bachelor Humanmedizin
-      university: Universität Zürich, CH
+      university: Medizinische Fakultät, Universität Zürich, CH
       time: 2017 - 2018
 
     - degree: Deutsch als Fremdsprache, Stufe C1
       university: ZHAW Angewandte Linguistik, CH
       time: 09.2016 - 03.2017
 
-    - degree: Ärztin
+    - degree: Master of Humanmedizin
       university: Belarussische Staatliche Medizinische Universität, BY
       time: 2000 - 2006
 
@@ -133,14 +140,14 @@ experiences:
       company: Stadtsspital Molodetschno, Belarus.
 
 certifications:
-  title: Zertifikate
+  title: Diplome, Zertifikate
   list:
     - name: Eidgenössisches Arztdiplom
       organization: Eidgenössisches Departement des Innern, CH
       start: "10.2022"
 
     - name: Master of Medicine UZH
-      organization: Universität Zürich, Medizinische Fakultät, CH
+      organization: Medizinische Fakultät, Universität Zürich, CH
       start: "10.2022"
 
     - name: Dialektverstehen und Deutsch im Schweizer Alltag, B2-C1
@@ -163,17 +170,17 @@ certifications:
       organization: Stadt Zürich, Integrationsförderung, CH
       start: "12.2016"
 
-    - name: Arztdiplom
+    - name: Master of Humanmedizin
       organization: Belarussische Staatliche Medizinische Universität, BY
       start: "06.2006"
 
 publications:
   title: Publikationen
   papers:
-    - title: Pancreatic fistulas following distal pancreatectomy are unrelated to the texture quality of the pancreas
+    - title: Pancreatic fistulas following distal pancreatectomy are unrelated to the texture quality of the pancreas.
       link: "https://link.springer.com/article/10.1007/s00423-020-02071-y"
       authors: Eshmuminov, D., Karpovich, I., Kapp, J. et al.
-      conference: Langenbecks Arch Surg 406, 729–734 (2021)
+      conference: Langenbecks Arch Surg. 2021;406(3):729-734. doi:10.1007/s00423-020-02071-y
 
 references:
   title: Referenzen

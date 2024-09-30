@@ -148,7 +148,8 @@ p {
     }
   }
 
-  .interests-list {
+  .interests-list,
+  .skills-list {
     margin-bottom: 0;
     li {
       margin-bottom: 10px;
@@ -276,7 +277,7 @@ p {
 
 .skillset {
   .item {
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     overflow: hidden;
   }
   .level-title {
@@ -285,6 +286,7 @@ p {
     margin-bottom: 12px;
   }
   .level-bar {
+    display: none;
     height: 12px;
     background: $smoky-white;
     @include border-radius(2px);
