@@ -4,17 +4,20 @@ sidebar:
 
   # Profile information
   name: Dr. med. Iryna Karpovich
-  tagline: |
-    Assistentärztin \
-    CH-Arztdiplom
+#  tagline: |
+#    Assistentärztin \
+#    CH-Arztdiplom
   avatar: portrait.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   #  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: irina.krivec@gmail.com
-  birthday: 27.05.1980
+#  birthday: 27.05.1980
   phone: +41 76 451 56 26
-  address: 8152 Opfikon, Schweiz
+  address: |
+    Wright-Str. 48 \
+    8152 Glattpark \
+    Schweiz
   timezone:
   citizenship:
   website:
@@ -35,12 +38,16 @@ sidebar:
     title: Sprachen
     info:
       - idiom: Deutsch/Schweizerdeutsch
+        level: C1
 
       - idiom: Englisch
+        level: B2
 
       - idiom: Belarussisch
+        level: Muttersprache
 
       - idiom: Russisch
+        level: Muttersprache
 
   interests:
     title: Interessen
@@ -54,15 +61,8 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-    - **Eidgenössisches Arztdiplom**
-    - Eintrag im Medizinalberuferegister **MedReg** des BAG
-    - **VSAO/FMH/SIWF** Mitgliedschaft
-    - Tätigkeit als UA in der Schweiz
-    - Sehr gute Deutschkenntnisse in Wort und Schrift (**Goethe-zertifikat C1**)
-    
-    
-    Ärztin mit praktischen und theoretischen Kompetenzen in der Diagnostik, Therapieplanung, umfassenden Patientenbetreuung. \
-    Klinische Erfahrung in unterschiedlichen Aspekten der Inneren Medizin bei der Führung von Patienten basierend auf klinisch problemorientiertem wissenschaftlichem Denken und evidenzbasierten ärztlichem Handeln. \
+    Einsatzfähige Ärztin mit praktischen und theoretischen Kompetenzen in der Diagnostik, Therapieplanung, umfassenden Patientenbetreuung. \
+    Klinische Erfahrung in unterschiedlichen Aspekten der Inneren Medizin bei der Führung von Patienten basierend auf klinisch problemorientiertem wissenschaftlichem Denken und evidenzbasierten ärztlichem Handeln. Sowie sorgfältige und zeitnahe Führung von Dokumentation- und Berichtswesen. VSAO/FMH/SIWF Mitgliedschaft.\
     Effizienz, Zuverlässigkeit, Sorgfältigkeit gehören zu meiner Arbeitsweise.
 
 education:
@@ -70,35 +70,102 @@ education:
   info:
     - degree: Online-Weiterbildungsstätte Hausarztmedizin
       university: Monvia Academy, CH
-      time: 2024
-    - degree: Master Humanmedizin
-      university: Universität Zürich, CH
+      time: 02.2024 - 07.2024
+
+    - degree: Master of Medicine UZH
+      university: Universität Zürich, Medizinische Fakultät, CH
       time: 2018 - 2022
+
+    - degree: Unterassistentin
+      university: Spital Uster, Gynäkologie und Geburtshilfe, CH
+      time: 06.2021 - 07.2021
+    - degree: Unterassistentin
+      university: Hirslanden, Klinik für Neurologie, CH
+      time: "05.2021"
+    - degree: Unterassistentin
+      university: USZ, Klinik für Ohren-, Nasen-, Hals- und Gesichtschirurgie, CH
+      time: "04.2021"
+    - degree: Unterassistentin
+      university: Stadspital Waid, Klinik für Viszeral-, Thorax- und Gefässchirurgie, CH
+      time: 02.2021 - 03.2021
+    - degree: Unterassistentin
+      university: USZ, Klinik und Poliklinik für Innere Medizin, CH
+      time: 10.2020 - 12.2020
+    - degree: Unterassistentin
+      university: USZ, Dermatologische Klinik, CH
+      time: "03.2020"
+    - degree: Unterassistentin
+      university: USZ, Gynäkologie und Geburtshilfe, CH
+      time: 10.2019 - 11.2019
+
     - degree: Bachelor Humanmedizin
       university: Universität Zürich, CH
       time: 2017 - 2018
+
     - degree: Deutsch als Fremdsprache, Stufe C1
       university: ZHAW Angewandte Linguistik, CH
-      time: 2016 - 2017
-    - degree: Fachärztin für Innere Medizin
-      university: Belarussische Staatliche Medizinische Universität, BY
-      time: 2006 - 2007
+      time: 09.2016 - 03.2017
+
     - degree: Ärztin
       university: Belarussische Staatliche Medizinische Universität, BY
       time: 2000 - 2006
 
 experiences:
-  title: Berufserfahrung
+  title: Karriere
   info:
-    - role: Volunteer für ukrainische Geflüchtete
-      time: 2022 - 2023
-      company: CH
-    - role: Unterassistentin
-      time: 10.2020 - 07.2021
-      company: Diverse Spitäler (USZ, Waid, Hirslanden, Uster), CH
-    - role: Innere Medizin, Spitalinternistin
-      time: 08.2007 - 02.2015
-      company: Diverse Spitäle, BY
+    - role: Volunteering, Sabbatical
+      time: 2023 - 2024
+      company: Zürich, Schweiz
+
+    - role: Fachärztin für Innere Medizin, Spz. Gastroenterologie
+      time: 11.2014 - 06.2016
+      company: 3. Klinische Stadtsspital, Minsk, Belarus
+    - role: Fachärztin für Innere Medizin
+      time: 03.2013 - 05.2014
+      company: Das private Medizinzentrum. Minsk, Belarus
+
+    - role: Fachärztin für Innere Medizin
+      time: 08.2007 - 01.2013
+      company: Klinik und Poliklinik für Innere Medizin. Molodetschno, Belarus.
+
+    - role: Assistentärztin für Innere Medizin
+      time: 08.2006 - 07.2007
+      company: Stadtsspital Molodetschno, Belarus.
+
+certifications:
+  title: Zertifikate
+  list:
+    - name: Eidgenössisches Arztdiplom
+      organization: Eidgenössisches Departement des Innern, CH
+      start: "10.2022"
+
+    - name: Master of Medicine UZH
+      organization: Universität Zürich, Medizinische Fakultät, CH
+      start: "10.2022"
+
+    - name: Dialektverstehen und Deutsch im Schweizer Alltag, B2-C1
+      organization: UZH, Sprachenzentrum, CH
+      start: "12.2017"
+
+    - name: Treffpunkt Deutsch
+      organization: ZHAW Angewandte Linguistik, CH
+      start: "03.2017"
+
+    - name: Goethe-Zertifikat C1
+      organization: ZHAW Angewandte Linguistik, CH
+      start: "02.2017"
+
+    - name: Deutsch für Ärztinnen und Ärzte, B2-C1
+      organization: ZHAW Angewandte Linguistik, CH
+      start: "01.2017"
+
+    - name: In Zürich leben
+      organization: Stadt Zürich, Integrationsförderung, CH
+      start: "12.2016"
+
+    - name: Arztdiplom
+      organization: Belarussische Staatliche Medizinische Universität, BY
+      start: "06.2006"
 
 publications:
   title: Publikationen
