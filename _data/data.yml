@@ -53,6 +53,8 @@ sidebar:
     title: Skills
 
     info:
+      - item: "Notfallsonographie"
+      - item: "Abdomensonographie"
       - item: "Klinische Software: Kisim"
       - item: "Datenanalyse: IBM SPSS"
 
@@ -142,6 +144,14 @@ experiences:
 certifications:
   title: Diplome, Zertifikate
   list:
+    - name: Hybrid Grundkurs Abdomensonographie
+      organization: SGUM, Universitätsspital Zürich, CH
+      start: "12.2024"
+
+    - name: POCUS Basiskurs-Notfallsonographie
+      organization: SGUM, Universitätsspital Zürich, CH
+      start: "12.2024"
+
     - name: Eidgenössisches Arztdiplom
       organization: Eidgenössisches Departement des Innern, CH
       start: "10.2022"
