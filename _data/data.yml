@@ -55,6 +55,7 @@ sidebar:
     info:
       - item: "Notfallsonographie"
       - item: "Abdomensonographie"
+      - item: "Sonobewegungsapparat"
       - item: "Klinische Software: Kisim"
       - item: "Datenanalyse: IBM SPSS"
 
@@ -144,6 +145,10 @@ experiences:
 certifications:
   title: Diplome, Zertifikate
   list:
+    - name: Sonographie Fortbildung für Ärzte, Modus Bewegungsapparat
+      organization: SGUM, Polipraxis, CH
+      start: "01.2025"
+
     - name: Hybrid Grundkurs Abdomensonographie
       organization: SGUM, Universitätsspital Zürich, CH
       start: "12.2024"
