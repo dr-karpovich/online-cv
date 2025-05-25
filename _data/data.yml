@@ -5,7 +5,7 @@ sidebar:
   # Profile information
   name: Dr. med. Iryna Karpovich
 #  tagline: |
-#    Assistentärztin \
+#    Assistenzärztin \
 #    CH-Arztdiplom
   avatar: portrait.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
   #  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
@@ -14,10 +14,7 @@ sidebar:
   email: irina.krivec@gmail.com
 #  birthday: 27.05.1980
   phone: +41 76 451 56 26
-  address: |
-    Wright-Str. 48 \
-    8152 Glattpark \
-    Schweiz
+  address: 8152 Glattpark, CH
   timezone:
   citizenship:
   website:
@@ -53,10 +50,12 @@ sidebar:
     title: Skills
 
     info:
+      - item: "BLS-AED"
       - item: "Notfallsonographie"
       - item: "Abdomensonographie"
       - item: "Sonobewegungsapparat"
-      - item: "Klinische Software: Kisim"
+      - item: "Klinische Software: Kisim, KIS"
+      - item: "Polypoint"
       - item: "Datenanalyse: IBM SPSS"
 
   interests:
@@ -123,24 +122,28 @@ education:
 experiences:
   title: Karriere
   info:
+    - role: Assistenzärztin AIM
+      time: seit 04.2025
+      company: Zurzachcare Rehaklinik Bad Zurzach, CH
+
     - role: Volunteering, Sabbatical
       time: 2023 - 2024
-      company: Zürich, Schweiz
+      company: Zürich, CH
 
     - role: Fachärztin für Innere Medizin, Spz. Gastroenterologie
       time: 11.2014 - 06.2016
-      company: 3. Klinische Stadtsspital, Minsk, Belarus
+      company: 3. Klinische Stadtsspital, Minsk, BY
     - role: Fachärztin für Innere Medizin
       time: 03.2013 - 05.2014
-      company: Das private Medizinzentrum. Minsk, Belarus
+      company: Das private Medizinzentrum. Minsk, BY
 
     - role: Fachärztin für Innere Medizin
       time: 08.2007 - 01.2013
-      company: Klinik und Poliklinik für Innere Medizin. Molodetschno, Belarus.
+      company: Klinik und Poliklinik für Innere Medizin. Molodetschno, BY
 
-    - role: Assistentärztin für Innere Medizin
+    - role: Assistenzärztin für Innere Medizin
       time: 08.2006 - 07.2007
-      company: Stadtsspital Molodetschno, Belarus.
+      company: Stadtsspital Molodetschno, BY
 
 certifications:
   title: Diplome, Zertifikate
